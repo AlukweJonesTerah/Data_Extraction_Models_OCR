@@ -1,0 +1,49 @@
+# installIng requirements
+pip install -r requirements.txt
+
+
+# connecting terminal to runpod terminal
+ssh -L 11435:localhost:11434 root@103.196.86.130 -p 15427 -i ~/.ssh/id_ed25519
+
+# 4. Quick connection test from VS Code terminal
+curl https://am37kwma1dwy5l-64411a83-11434.proxy.runpod.net/api/tags
+
+# GPU fixing
+apt-get install -y pciutils lshw
+
+
+# check if GPU is visible
+nvidia-smi
+
+# if ollama is not installed
+curl -fsSL https://ollama.com/install.sh | sh
+
+#killing the current running ollama
+pkill ollama
+
+# Check if ollama is still running
+ps aux | grep ollama
+
+# Check what happened
+cat /tmp/ollama.log | tail -30
+
+# Step 1: Start Ollama with GPU support
+OLLAMA_HOST=0.0.0.0:11434 ollama serve > /tmp/ollama.log 2>&1 &
+
+# Step 2: Wait 5 seconds then verify GPU is detected
+cat /tmp/ollama.log | grep "inference compute"
+
+# Step 3: Check your models are still there
+ollama list
+
+
+# models to install 
+
+ollama pull qwen2.5vl
+ollama pull llama3.2-vision
+ollama pull deepseek-ocr
+ollama pull minicpm-v
+ollama pull gemma3:12b
+
+# Update script with the new proxy URL 
+RUNPOD_URL = "https://NEW-URL-11434.proxy.runpod.net"

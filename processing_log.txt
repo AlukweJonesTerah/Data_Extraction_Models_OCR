@@ -1,0 +1,331 @@
+OK: C:\Users\IT\Documents\omniscan_images\0000.xml -> C:\Users\IT\Documents\cleaned_xml\0000.xml
+OK: C:\Users\IT\Documents\omniscan_images\00068581X.xml -> C:\Users\IT\Documents\cleaned_xml\00068581X.xml
+OK: C:\Users\IT\Documents\omniscan_images\00077844.xml -> C:\Users\IT\Documents\cleaned_xml\00077844.xml
+OK: C:\Users\IT\Documents\omniscan_images\00080292.xml -> C:\Users\IT\Documents\cleaned_xml\00080292.xml
+OK: C:\Users\IT\Documents\omniscan_images\00081116.xml -> C:\Users\IT\Documents\cleaned_xml\00081116.xml
+OK: C:\Users\IT\Documents\omniscan_images\001773917.xml -> C:\Users\IT\Documents\cleaned_xml\001773917.xml
+OK: C:\Users\IT\Documents\omniscan_images\00198412.xml -> C:\Users\IT\Documents\cleaned_xml\00198412.xml
+OK: C:\Users\IT\Documents\omniscan_images\00214002.xml -> C:\Users\IT\Documents\cleaned_xml\00214002.xml
+OK: C:\Users\IT\Documents\omniscan_images\00229180.xml -> C:\Users\IT\Documents\cleaned_xml\00229180.xml
+OK: C:\Users\IT\Documents\omniscan_images\00268895.xml -> C:\Users\IT\Documents\cleaned_xml\00268895.xml
+OK: C:\Users\IT\Documents\omniscan_images\00268917.xml -> C:\Users\IT\Documents\cleaned_xml\00268917.xml
+OK: C:\Users\IT\Documents\omniscan_images\0026900X.xml -> C:\Users\IT\Documents\cleaned_xml\0026900X.xml
+OK: C:\Users\IT\Documents\omniscan_images\0026914X.xml -> C:\Users\IT\Documents\cleaned_xml\0026914X.xml
+OK: C:\Users\IT\Documents\omniscan_images\00269182.xml -> C:\Users\IT\Documents\cleaned_xml\00269182.xml
+OK: C:\Users\IT\Documents\omniscan_images\00269301.xml -> C:\Users\IT\Documents\cleaned_xml\00269301.xml
+OK: C:\Users\IT\Documents\omniscan_images\00269832.xml -> C:\Users\IT\Documents\cleaned_xml\00269832.xml
+OK: C:\Users\IT\Documents\omniscan_images\00272124.xml -> C:\Users\IT\Documents\cleaned_xml\00272124.xml
+OK: C:\Users\IT\Documents\omniscan_images\00275344.xml -> C:\Users\IT\Documents\cleaned_xml\00275344.xml
+OK: C:\Users\IT\Documents\omniscan_images\00279110.xml -> C:\Users\IT\Documents\cleaned_xml\00279110.xml
+OK: C:\Users\IT\Documents\omniscan_images\00281000.xml -> C:\Users\IT\Documents\cleaned_xml\00281000.xml
+OK: C:\Users\IT\Documents\omniscan_images\00293725.xml -> C:\Users\IT\Documents\cleaned_xml\00293725.xml
+OK: C:\Users\IT\Documents\omniscan_images\00390211.xml -> C:\Users\IT\Documents\cleaned_xml\00390211.xml
+OK: C:\Users\IT\Documents\omniscan_images\00851760.xml -> C:\Users\IT\Documents\cleaned_xml\00851760.xml
+OK: C:\Users\IT\Documents\omniscan_images\0086238X.xml -> C:\Users\IT\Documents\cleaned_xml\0086238X.xml
+OK: C:\Users\IT\Documents\omniscan_images\01317293X.xml -> C:\Users\IT\Documents\cleaned_xml\01317293X.xml
+OK: C:\Users\IT\Documents\omniscan_images\01745670.xml -> C:\Users\IT\Documents\cleaned_xml\01745670.xml
+OK: C:\Users\IT\Documents\omniscan_images\01964679.xml -> C:\Users\IT\Documents\cleaned_xml\01964679.xml
+OK: C:\Users\IT\Documents\omniscan_images\01996258.xml -> C:\Users\IT\Documents\cleaned_xml\01996258.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-051149362.xml -> C:\Users\IT\Documents\cleaned_xml\2051149362.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-051400635.xml -> C:\Users\IT\Documents\cleaned_xml\2051400635.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-051624674.xml -> C:\Users\IT\Documents\cleaned_xml\2051624674.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-51667715.xml -> C:\Users\IT\Documents\cleaned_xml\251667715.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-51806167.xml -> C:\Users\IT\Documents\cleaned_xml\251806167.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-5189769X.xml -> C:\Users\IT\Documents\cleaned_xml\25189769X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2-52364195.xml -> C:\Users\IT\Documents\cleaned_xml\252364195.xml
+OK: C:\Users\IT\Documents\omniscan_images\20 52183224.xml -> C:\Users\IT\Documents\cleaned_xml\2052183224.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51723485.xml -> C:\Users\IT\Documents\cleaned_xml\2051723485.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51740459.xml -> C:\Users\IT\Documents\cleaned_xml\2051740459.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51770959.xml -> C:\Users\IT\Documents\cleaned_xml\2051770959.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51781255.xml -> C:\Users\IT\Documents\cleaned_xml\2051781255.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51818103.xml -> C:\Users\IT\Documents\cleaned_xml\2051818103.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-51855958.xml -> C:\Users\IT\Documents\cleaned_xml\2051855958.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-52023991.xml -> C:\Users\IT\Documents\cleaned_xml\2052023991.xml
+OK: C:\Users\IT\Documents\omniscan_images\20-53239594.xml -> C:\Users\IT\Documents\cleaned_xml\2053239594.xml
+OK: C:\Users\IT\Documents\omniscan_images\2024777X.xml -> C:\Users\IT\Documents\cleaned_xml\2024777X.xml
+OK: C:\Users\IT\Documents\omniscan_images\20352.xml -> C:\Users\IT\Documents\cleaned_xml\20352.xml
+OK: C:\Users\IT\Documents\omniscan_images\204679S73X.xml -> C:\Users\IT\Documents\cleaned_xml\204679S73X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2047 239641.xml -> C:\Users\IT\Documents\cleaned_xml\2047239641.xml
+OK: C:\Users\IT\Documents\omniscan_images\204702.xml -> C:\Users\IT\Documents\cleaned_xml\204702.xml
+OK: C:\Users\IT\Documents\omniscan_images\2047029S0X.xml -> C:\Users\IT\Documents\cleaned_xml\2047029S0X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2047206S7X.xml -> C:\Users\IT\Documents\cleaned_xml\2047206S7X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2047459 144.xml -> C:\Users\IT\Documents\cleaned_xml\2047459144.xml
+OK: C:\Users\IT\Documents\omniscan_images\20475S086X.xml -> C:\Users\IT\Documents\cleaned_xml\20475S086X.xml
+OK: C:\Users\IT\Documents\omniscan_images\204792S526X.xml -> C:\Users\IT\Documents\cleaned_xml\204792S526X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2048 511507.xml -> C:\Users\IT\Documents\cleaned_xml\2048511507.xml
+OK: C:\Users\IT\Documents\omniscan_images\2048 651007.xml -> C:\Users\IT\Documents\cleaned_xml\2048651007.xml
+OK: C:\Users\IT\Documents\omniscan_images\2048285 20X.xml -> C:\Users\IT\Documents\cleaned_xml\204828520X.xml
+OK: C:\Users\IT\Documents\omniscan_images\204S74510X.xml -> C:\Users\IT\Documents\cleaned_xml\204S74510X.xml
+OK: C:\Users\IT\Documents\omniscan_images\205095.3417.xml -> C:\Users\IT\Documents\cleaned_xml\2050953417.xml
+OK: C:\Users\IT\Documents\omniscan_images\20521`81631.xml -> C:\Users\IT\Documents\cleaned_xml\2052181631.xml
+OK: C:\Users\IT\Documents\omniscan_images\205223.6257.xml -> C:\Users\IT\Documents\cleaned_xml\2052236257.xml
+OK: C:\Users\IT\Documents\omniscan_images\2053I99284.xml -> C:\Users\IT\Documents\cleaned_xml\2053I99284.xml
+OK: C:\Users\IT\Documents\omniscan_images\20I53531153.xml -> C:\Users\IT\Documents\cleaned_xml\20I53531153.xml
+OK: C:\Users\IT\Documents\omniscan_images\20r52370138.xml -> C:\Users\IT\Documents\cleaned_xml\20r52370138.xml
+OK: C:\Users\IT\Documents\omniscan_images\20Y51901569.xml -> C:\Users\IT\Documents\cleaned_xml\20Y51901569.xml
+OK: C:\Users\IT\Documents\omniscan_images\20Y52189658.xml -> C:\Users\IT\Documents\cleaned_xml\20Y52189658.xml
+OK: C:\Users\IT\Documents\omniscan_images\2289005X.xml -> C:\Users\IT\Documents\cleaned_xml\2289005X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2289805X.xml -> C:\Users\IT\Documents\cleaned_xml\2289805X.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O45930805.xml -> C:\Users\IT\Documents\cleaned_xml\2O45930805.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O47554911.xml -> C:\Users\IT\Documents\cleaned_xml\2O47554911.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O51329333.xml -> C:\Users\IT\Documents\cleaned_xml\2O51329333.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O51414701.xml -> C:\Users\IT\Documents\cleaned_xml\2O51414701.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O51654566.xml -> C:\Users\IT\Documents\cleaned_xml\2O51654566.xml
+OK: C:\Users\IT\Documents\omniscan_images\2O51737767.xml -> C:\Users\IT\Documents\cleaned_xml\2O51737767.xml
+OK: C:\Users\IT\Documents\omniscan_images\2Q051736296.xml -> C:\Users\IT\Documents\cleaned_xml\2Q051736296.xml
+OK: C:\Users\IT\Documents\omniscan_images\2Q06342204.xml -> C:\Users\IT\Documents\cleaned_xml\2Q06342204.xml
+OK: C:\Users\IT\Documents\omniscan_images\2Q50823851.xml -> C:\Users\IT\Documents\cleaned_xml\2Q50823851.xml
+OK: C:\Users\IT\Documents\omniscan_images\40409 21702.xml -> C:\Users\IT\Documents\cleaned_xml\4040921702.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC10JOB_DISI-CLERK-32_record130.xml -> C:\Users\IT\Documents\cleaned_xml\2047994027X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC10JOB_DISI-CLERK-38_record12.xml -> C:\Users\IT\Documents\cleaned_xml\248185581.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC10JOB_DISI-CLERK-38_record161.xml -> C:\Users\IT\Documents\cleaned_xml\63048160555.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC10JOB_DISI-CLERK-38_record45.xml -> C:\Users\IT\Documents\cleaned_xml\2456891X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC11JOB_DISI-CLERK-53_record29.xml -> C:\Users\IT\Documents\cleaned_xml\32047622109.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC12JOB_DISI-CLERK-32_record58.xml -> C:\Users\IT\Documents\cleaned_xml\20449096593.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC12JOB_DISI-CLERK-53_record106.xml -> C:\Users\IT\Documents\cleaned_xml\204735824X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC13JOB_DISI-CLERK-29_record118.xml -> C:\Users\IT\Documents\cleaned_xml\20408288623.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC13JOB_DISI-CLERK-32_record124.xml -> C:\Users\IT\Documents\cleaned_xml\2048846474.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC13JOB_DISI-CLERK-32_record126.xml -> C:\Users\IT\Documents\cleaned_xml\20488845762.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC13JOB_DISI-CLERK-38_record89.xml -> C:\Users\IT\Documents\cleaned_xml\203541821X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC14JOBQ_DISI-CLERK-31_record209.xml -> C:\Users\IT\Documents\cleaned_xml\20531765493.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC14JOB_DISI-CLERK-29_record132.xml -> C:\Users\IT\Documents\cleaned_xml\20477811349.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC14JOB_DISI-CLERK-38_record161.xml -> C:\Users\IT\Documents\cleaned_xml\20348900049.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC15JOB_DISI-CLERK-29_record118.xml -> C:\Users\IT\Documents\cleaned_xml\20474999749.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC15JOB_DISI-CLERK-38_record76.xml -> C:\Users\IT\Documents\cleaned_xml\37048365534.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC15JOB_DISI-CLERK-39_record142.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC15JOB_DISI-CLERK-53_record6.xml -> C:\Users\IT\Documents\cleaned_xml\20482828941.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC15JOB_DISI-CLERK-53_record61.xml -> C:\Users\IT\Documents\cleaned_xml\93048305779.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC16JOB_DISI-CLERK-32_record81.xml -> C:\Users\IT\Documents\cleaned_xml\20485011298.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC16JOB_DISI-CLERK-53_record27.xml -> C:\Users\IT\Documents\cleaned_xml\20645954979.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC16JOB_DISI-CLERK-53_record56.xml -> C:\Users\IT\Documents\cleaned_xml\20459465358.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC17JOB_DISI-CLERK-29_record61.xml -> C:\Users\IT\Documents\cleaned_xml\2047820224X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC17JOB_DISI-CLERK-32_record141.xml -> C:\Users\IT\Documents\cleaned_xml\2048883017X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC17JOB_DISI-CLERK-53_record141.xml -> C:\Users\IT\Documents\cleaned_xml\20482897773.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC18JOB_DISI-CLERK-53_record13.xml -> C:\Users\IT\Documents\cleaned_xml\20480395753.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC19JOB_DISI-CLERK-32_record149.xml -> C:\Users\IT\Documents\cleaned_xml\20483233866.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC19JOB_DISI-CLERK-34_record208.xml -> C:\Users\IT\Documents\cleaned_xml\204844968X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC19JOB_DISI-CLERK-38_record6.xml -> C:\Users\IT\Documents\cleaned_xml\204786992X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC19JOB_DISI-CLERK-53_record134.xml -> C:\Users\IT\Documents\cleaned_xml\20478644123.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC1JOB_DISI-CLERK-38_record144.xml -> C:\Users\IT\Documents\cleaned_xml\20471148552.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC20JOB_DISI-CLERK-32_record163.xml -> C:\Users\IT\Documents\cleaned_xml\20488000537.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC20JOB_DISI-CLERK-34_record42.xml -> C:\Users\IT\Documents\cleaned_xml\2048481032.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC21JOB_DISI-CLERK-32_record119.xml -> C:\Users\IT\Documents\cleaned_xml\20488707756.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC21JOB_DISI-CLERK-53_record57.xml -> C:\Users\IT\Documents\cleaned_xml\2047213082.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC23JOB_DISI-CLERK-53_record122.xml -> C:\Users\IT\Documents\cleaned_xml\2047238831.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC24JOB_DISI-CLERK-53_record138.xml -> C:\Users\IT\Documents\cleaned_xml\20457365233.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC26JOB_DISI-CLERK-32_record172.xml -> C:\Users\IT\Documents\cleaned_xml\20490869444.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC28JOBQ_DISI-CLERK-31_record128.xml -> C:\Users\IT\Documents\cleaned_xml\2053032046.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC29JOB_DISI-CLERK-38_record106.xml -> C:\Users\IT\Documents\cleaned_xml\20309068405.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC29JOB_DISI-CLERK-53_record171.xml -> C:\Users\IT\Documents\cleaned_xml\2046323885.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC29JOB_DISI-CLERK-53_record96.xml -> C:\Users\IT\Documents\cleaned_xml\2046137923.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC2JOB_DISI-CLERK-53_record104.xml -> C:\Users\IT\Documents\cleaned_xml\20470903439.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC2JOB_DISI-CLERK-53_record89.xml -> C:\Users\IT\Documents\cleaned_xml\204711488X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC30JOBQ_DISI-CLERK-31_record34.xml -> C:\Users\IT\Documents\cleaned_xml\2051914727.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC31JOB_DISI-CLERK-32_record116.xml -> C:\Users\IT\Documents\cleaned_xml\20448048297.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC31JOB_DISI-CLERK-32_record188.xml -> C:\Users\IT\Documents\cleaned_xml\20480462338.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC31JOB_DISI-CLERK-32_record89.xml -> C:\Users\IT\Documents\cleaned_xml\20488870999.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC31JOB_DISI-CLERK-32_record98.xml -> C:\Users\IT\Documents\cleaned_xml\20480598553.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC32JOB_DISI-CLERK-32_record175.xml -> C:\Users\IT\Documents\cleaned_xml\20484596826.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC34JOB_DISI-CLERK-39_record233.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC38JOBQ_DISI-CLERK-31_record111.xml -> C:\Users\IT\Documents\cleaned_xml\2053086261.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC38JOB_DISI-CLERK-53_record104.xml -> C:\Users\IT\Documents\cleaned_xml\2031654872.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC3JOBQ_DISI-CLERK-31_record120.xml -> C:\Users\IT\Documents\cleaned_xml\20533551435.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC3JOB_DISI-CLERK-53_record5.xml -> C:\Users\IT\Documents\cleaned_xml\20481521838.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC40JOB_DISI-CLERK-32_record162.xml -> C:\Users\IT\Documents\cleaned_xml\2048860582.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC40JOB_DISI-CLERK-39_record60.xml -> C:\Users\IT\Documents\cleaned_xml\MN00.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC42JOBQ_DISI-CLERK-31_record161.xml -> C:\Users\IT\Documents\cleaned_xml\20533024984.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC42JOB_DISI-CLERK-32_record160.xml -> C:\Users\IT\Documents\cleaned_xml\20488297603.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOBQ_DISI-CLERK-31_record72.xml -> C:\Users\IT\Documents\cleaned_xml\20526013151.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOBQ_DISI-CLERK-31_record73.xml -> C:\Users\IT\Documents\cleaned_xml\20525951228.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOB_DISI-CLERK-29_record165.xml -> C:\Users\IT\Documents\cleaned_xml\2034513223i.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOB_DISI-CLERK-34_record132.xml -> C:\Users\IT\Documents\cleaned_xml\2047120822.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOB_DISI-CLERK-34_record144.xml -> C:\Users\IT\Documents\cleaned_xml\2047102584.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC4JOB_DISI-CLERK-38_record165.xml -> C:\Users\IT\Documents\cleaned_xml\42045736361.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC50JOB_DISI-CLERK-53_record245.xml -> C:\Users\IT\Documents\cleaned_xml\2042111455.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC51JOB_DISI-CLERK-34_record251.xml -> C:\Users\IT\Documents\cleaned_xml\IN2029092NnA.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC52JOBQ_DISI-CLERK-31_record89.xml -> C:\Users\IT\Documents\cleaned_xml\20529598121.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC52JOB_DISI-CLERK-53_record52.xml -> C:\Users\IT\Documents\cleaned_xml\20465356847.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC54JOB_DISI-CLERK-32_record183.xml -> C:\Users\IT\Documents\cleaned_xml\2048958891.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC59JOBQ_DISI-CLERK-31_record65.xml -> C:\Users\IT\Documents\cleaned_xml\02053079211.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC59JOB_DISI-CLERK-32_record106.xml -> C:\Users\IT\Documents\cleaned_xml\20491322967.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC59JOB_DISI-CLERK-32_record42.xml -> C:\Users\IT\Documents\cleaned_xml\20486693965.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC59JOB_DISI-CLERK-32_record55.xml -> C:\Users\IT\Documents\cleaned_xml\20487096099.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC5JOB_DISI-CLERK-32_record64.xml -> C:\Users\IT\Documents\cleaned_xml\20499122601.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC60JOB_DISI-CLERK-32_record121.xml -> C:\Users\IT\Documents\cleaned_xml\20413351878.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC60JOB_DISI-CLERK-32_record66.xml -> C:\Users\IT\Documents\cleaned_xml\20470828848.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC62JOB_DISI-CLERK-34_record107.xml -> C:\Users\IT\Documents\cleaned_xml\JOSPHATAIPKEMOL.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC64JOB_DISI-CLERK-32_record11.xml -> C:\Users\IT\Documents\cleaned_xml\20488877363.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC64JOB_DISI-CLERK-32_record135.xml -> C:\Users\IT\Documents\cleaned_xml\20484550386.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-32_record139.xml -> C:\Users\IT\Documents\cleaned_xml\2048241169X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-32_record155.xml -> C:\Users\IT\Documents\cleaned_xml\2048271109X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-32_record38.xml -> C:\Users\IT\Documents\cleaned_xml\20484247789.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-32_record44.xml -> C:\Users\IT\Documents\cleaned_xml\20484331219.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-32_record95.xml -> C:\Users\IT\Documents\cleaned_xml\20474484481.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC66JOB_DISI-CLERK-34_record83.xml -> C:\Users\IT\Documents\cleaned_xml\203016221ONnG6R7250.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC67JOB_DISI-CLERK-32_record48.xml -> C:\Users\IT\Documents\cleaned_xml\2049032587Q.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC6JOB_DISI-CLERK-38_record144.xml -> C:\Users\IT\Documents\cleaned_xml\20458929007.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC6JOB_DISI-CLERK-53_record33.xml -> C:\Users\IT\Documents\cleaned_xml\2048432421.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC72JOBQ_DISI-CLERK-31_record178.xml -> C:\Users\IT\Documents\cleaned_xml\20533512345.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC72JOBQ_DISI-CLERK-31_record28.xml -> C:\Users\IT\Documents\cleaned_xml\20533829741.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC74JOBQ_DISI-CLERK-31_record102.xml -> C:\Users\IT\Documents\cleaned_xml\2053355811X.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC76JOB_DISI-CLERK-32_record141.xml -> C:\Users\IT\Documents\cleaned_xml\20456822019.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record1.xml -> C:\Users\IT\Documents\cleaned_xml\feeeeoeOooeKXYaw.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record10.xml -> C:\Users\IT\Documents\cleaned_xml\USTEES.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record100.xml -> C:\Users\IT\Documents\cleaned_xml\KGKADanCu.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record101.xml -> C:\Users\IT\Documents\cleaned_xml\ctNGAWGR.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record102.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record103.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record104.xml -> C:\Users\IT\Documents\cleaned_xml\eaartaNWtraanrmun.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record105.xml -> C:\Users\IT\Documents\cleaned_xml\SFRE.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record106.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record107.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record108.xml -> C:\Users\IT\Documents\cleaned_xml\ComGeKACAburM.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record109.xml -> C:\Users\IT\Documents\cleaned_xml\STEES.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record11.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record110.xml -> C:\Users\IT\Documents\cleaned_xml\AmhanstiohPfAgalhnvr.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record111.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record112.xml -> C:\Users\IT\Documents\cleaned_xml\aefeAnn.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record113.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record114.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record115.xml -> C:\Users\IT\Documents\cleaned_xml\wweoowrtRN.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record116.xml -> C:\Users\IT\Documents\cleaned_xml\USTEESTA.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record117.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record118.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record119.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record12.xml -> C:\Users\IT\Documents\cleaned_xml\IRTERES.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record120.xml -> C:\Users\IT\Documents\cleaned_xml\ISTEES.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record121.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record122.xml -> C:\Users\IT\Documents\cleaned_xml\SFRE_1.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record123.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record124.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record125.xml -> C:\Users\IT\Documents\cleaned_xml\USTEES_1.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record126.xml -> C:\Users\IT\Documents\cleaned_xml\SFRECR.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record127.xml -> C:\Users\IT\Documents\cleaned_xml\woannppnfh.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record128.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record129.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record13.xml -> C:\Users\IT\Documents\cleaned_xml\USTEES_1.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record130.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record131.xml -> C:\Users\IT\Documents\cleaned_xml\yon.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record132.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record133.xml -> C:\Users\IT\Documents\cleaned_xml\ersp.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record134.xml -> C:\Users\IT\Documents\cleaned_xml\uUTHRDGAMuth.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record135.xml -> C:\Users\IT\Documents\cleaned_xml\witha.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record136.xml -> C:\Users\IT\Documents\cleaned_xml\QRTHRES.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record137.xml -> C:\Users\IT\Documents\cleaned_xml\STEES_1.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record138.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record139.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record14.xml -> C:\Users\IT\Documents\cleaned_xml\SFREC.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record140.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record141.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record142.xml -> C:\Users\IT\Documents\cleaned_xml\SFRE_2.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record143.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record144.xml -> C:\Users\IT\Documents\cleaned_xml\SFREC_1.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record145.xml -> C:\Users\IT\Documents\cleaned_xml\SFREC_1.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record146.xml -> C:\Users\IT\Documents\cleaned_xml\aaaetaaf7.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record147.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record148.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record149.xml -> C:\Users\IT\Documents\cleaned_xml\eatOkae.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record15.xml -> C:\Users\IT\Documents\cleaned_xml\USTEESSFREC.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record150.xml -> C:\Users\IT\Documents\cleaned_xml\USTEESSFREC73i.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record151.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record152.xml -> C:\Users\IT\Documents\cleaned_xml\aFi14.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record153.xml -> C:\Users\IT\Documents\cleaned_xml\STEESSFREC.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record154.xml -> C:\Users\IT\Documents\cleaned_xml\FFBBBsshT.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record16.xml -> C:\Users\IT\Documents\cleaned_xml\STEESSFY.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record17.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record18.xml -> C:\Users\IT\Documents\cleaned_xml\Chsporsf.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record19.xml -> C:\Users\IT\Documents\cleaned_xml\Fora.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record2.xml -> C:\Users\IT\Documents\cleaned_xml\ieeee.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record20.xml -> C:\Users\IT\Documents\cleaned_xml\SFRE_3.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record21.xml -> C:\Users\IT\Documents\cleaned_xml\VaeNa72.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record22.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record23.xml -> C:\Users\IT\Documents\cleaned_xml\anfSLowsisVy.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record24.xml -> C:\Users\IT\Documents\cleaned_xml\SFRE_4.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record25.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record26.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record27.xml -> C:\Users\IT\Documents\cleaned_xml\iiseed.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record28.xml -> C:\Users\IT\Documents\cleaned_xml\te.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record29.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record3.xml -> C:\Users\IT\Documents\cleaned_xml\MIRKARRRA.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record30.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record31.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record32.xml -> C:\Users\IT\Documents\cleaned_xml\yukuMvGow.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record33.xml -> C:\Users\IT\Documents\cleaned_xml\AA.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record34.xml -> C:\Users\IT\Documents\cleaned_xml\Yeeyeebee9.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record35.xml -> C:\Users\IT\Documents\cleaned_xml\2USTEES.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record36.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record37.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record38.xml -> C:\Users\IT\Documents\cleaned_xml\LQMirusino0.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record39.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record4.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record40.xml -> C:\Users\IT\Documents\cleaned_xml\VITINENAFTRUSYwrlkisn.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record41.xml -> C:\Users\IT\Documents\cleaned_xml\NidatKan.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record42.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record43.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record44.xml -> C:\Users\IT\Documents\cleaned_xml\SFOPDREG03.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record45.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record46.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record47.xml -> C:\Users\IT\Documents\cleaned_xml\STEES_2.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record48.xml -> C:\Users\IT\Documents\cleaned_xml\STEES_3.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record49.xml -> C:\Users\IT\Documents\cleaned_xml\JSTEESSI.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record5.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record50.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record51.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record52.xml -> C:\Users\IT\Documents\cleaned_xml\USTERSSF77.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record53.xml -> C:\Users\IT\Documents\cleaned_xml\aeataei.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record54.xml -> C:\Users\IT\Documents\cleaned_xml\OnUKAAQFEM.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record55.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record56.xml -> C:\Users\IT\Documents\cleaned_xml\SeENEMAYEWNieRTATTrewsnACrePO.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record57.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record58.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record59.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record6.xml -> C:\Users\IT\Documents\cleaned_xml\SaamATSA.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record60.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record61.xml -> C:\Users\IT\Documents\cleaned_xml\SFREC_2.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record62.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record63.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record64.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record65.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record66.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record67.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record68.xml -> C:\Users\IT\Documents\cleaned_xml\USTEESTT.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record69.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record7.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record70.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record71.xml -> C:\Users\IT\Documents\cleaned_xml\a.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record72.xml -> C:\Users\IT\Documents\cleaned_xml\orREC.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record73.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record74.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record75.xml -> C:\Users\IT\Documents\cleaned_xml\tUSTEESSFREt.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record76.xml -> C:\Users\IT\Documents\cleaned_xml\SLES.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record77.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record78.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record79.xml -> C:\Users\IT\Documents\cleaned_xml\Towmnwnmo.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record8.xml -> C:\Users\IT\Documents\cleaned_xml\NXAOwdra.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record80.xml -> C:\Users\IT\Documents\cleaned_xml\Waa.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record81.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record82.xml -> C:\Users\IT\Documents\cleaned_xml\SFREC_3.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record83.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record84.xml -> C:\Users\IT\Documents\cleaned_xml\ECnnas.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record85.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record86.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record87.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record88.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record89.xml -> C:\Users\IT\Documents\cleaned_xml\USTEESSFREC_1.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record9.xml -> C:\Users\IT\Documents\cleaned_xml\f.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record90.xml -> C:\Users\IT\Documents\cleaned_xml\agereeean.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record91.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record92.xml -> C:\Users\IT\Documents\cleaned_xml\MurryK10.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record93.xml -> C:\Users\IT\Documents\cleaned_xml\SFOP.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record94.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record95.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record96.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record97.xml -> C:\Users\IT\Documents\cleaned_xml\bhirelaabnerrai.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record98.xml
+SKIPPED (empty after clean): C:\Users\IT\Documents\omniscan_images\INVALID_OC77JOB_DISI-CLERK-34_record99.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC8JOB_DISI-CLERK-29_record113.xml -> C:\Users\IT\Documents\cleaned_xml\203687095x.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC8JOB_DISI-CLERK-53_record66.xml -> C:\Users\IT\Documents\cleaned_xml\20475359999.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC9JOB_DISI-CLERK-34_record35.xml -> C:\Users\IT\Documents\cleaned_xml\2047657497.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC9JOB_DISI-CLERK-38_record37.xml -> C:\Users\IT\Documents\cleaned_xml\2048176896.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC9JOB_DISI-CLERK-38_record69.xml -> C:\Users\IT\Documents\cleaned_xml\37948189043.xml
+OK: C:\Users\IT\Documents\omniscan_images\INVALID_OC9JOB_DISI-CLERK-39_record4.xml -> C:\Users\IT\Documents\cleaned_xml\20392978964.xml
